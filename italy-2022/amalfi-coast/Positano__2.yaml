@@ -1,8 +1,10 @@
 summary: Positano
-navDate: 2022
+navDate: 2022-02
 requiredStatement:
   label:
-    en: Attribution
+    en:
+    - Attribution
   value:
-    en: Provided courtesy of Ron Snyder
+    en:
+    - Provided courtesy of Ron Snyder
 depicts: Q81345
