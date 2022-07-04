@@ -1,3 +1,10 @@
 summary: Positano
 navDate: 2022
+requiredStatement:
+  label:
+    en:
+    - Attribution
+  value:
+    en:
+    - Provided courtesy of Ron Snyder
 depicts: Q81345
